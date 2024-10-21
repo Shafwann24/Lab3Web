@@ -90,15 +90,15 @@
 <br>
 
 <h2>Unodered List</h2>
-    </section>
-    <section id="unorder-list"> 
-        <h2>Unordered List</h2> 
-        <ul type="square"> 
-            <li>Jaringan Komputer</li> 
-            <li>Struktur Data</li> 
-            <li>Algoritma &amp; Pemrograman</li> 
-        </ul> 
-    </section>
+  <section id="unorder-list">
+    <h2>Unordered List</h2>
+    <ul style="list-style-type: square;">
+        <li>Jaringan Komputer</li>
+        <li>Struktur Data</li>
+        <li>Algoritma &amp; Pemrograman</li>
+    </ul>
+</section>
+
 
 ![image](https://github.com/user-attachments/assets/498a8399-0670-44d4-bb00-5714d74ec151)
 <br>
