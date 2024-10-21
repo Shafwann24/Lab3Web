@@ -1,3 +1,4 @@
+<h1>Pertanyaan dan Tugas</h1>
 <h2>1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection. </h2>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,8 +12,6 @@
     <form action="proses.php" method="post">
         <fieldset>
             <legend>Tipe Wanita Anda</legend>
-
-            <!-- Dropdown Menu -->
             <p>
                 <label for="usia">Pilih Batas Usia:</label>
                 <select id="usia" name="usia">
@@ -30,8 +29,6 @@
                     <option value="30">30</option>
                 </select>
             </p>
-
-            <!-- Listbox with multiple selection -->
             <p>
                 <label for="negara">Pilih Asal Negara :</label>
                 <select id="negara" name="negara[]" multiple size="4">
@@ -44,15 +41,12 @@
                     <option value="thailand">thailand</option>
                 </select>
             </p>
-
-            <!-- Submit Button -->
             <p><input type="submit" value="Submit"></p>
         </fieldset>
     </form>
     <style>
-        /* Tambahkan gaya untuk tombol submit */
         input[type="submit"] {
-            background-color: #4CAF50; /* Warna hijau */
+            background-color: #4CAF50; 
             border: none;
             color: white;
             padding: 12px 24px;
@@ -63,10 +57,8 @@
             margin: 4px 2px;
             cursor: pointer;
             border-radius: 8px;
-            transition: background-color 0.3s ease; /* Efek transisi */
+            transition: background-color 0.3s ease;
         }
-
-        /* Warna saat di-hover */
         input[type="submit"]:hover {
             background-color: #45a049;
         }
@@ -74,6 +66,8 @@
 
 </body>
 </html>
-![image](https://github.com/user-attachments/assets/f7e2e606-551d-43c3-8a15-2855d3e6e8f5)
-<hr>
 
+![image](https://github.com/user-attachments/assets/34d294cf-d9a2-4f8c-818c-ca672eef8ca2)
+
+<hr>
+<h2>1. </h2>
