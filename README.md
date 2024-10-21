@@ -45,7 +45,7 @@
             <p><input type="submit" value="Submit"></p>
         </fieldset>
     </form>
-    <style.>
+    <style>
         input[type="submit"] {
             background-color: #4CAF50; 
             border: none;
@@ -63,7 +63,7 @@
         input[type="submit"]:hover {
             background-color: #45a049;
         }
-    </style.>
+    </style>
 
 </body>
 </html>
@@ -102,4 +102,5 @@
 
 ![image](https://github.com/user-attachments/assets/498a8399-0670-44d4-bb00-5714d74ec151)
 <br>
+
 
