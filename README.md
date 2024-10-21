@@ -70,8 +70,8 @@
 
 ![image](https://github.com/user-attachments/assets/34d294cf-d9a2-4f8c-818c-ca672eef8ca2)
 
-<hr>
 <br>
 <h2>1. Laporan Praktikum</h2>
 <h2>Membuat List</h2>
+<h>Ordered List</h>
 
