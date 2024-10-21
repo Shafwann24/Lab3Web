@@ -70,14 +70,21 @@
     </html>
 
 ![image](https://github.com/user-attachments/assets/34d294cf-d9a2-4f8c-818c-ca672eef8ca2)
-
 <br>
-<h2>1. Laporan Praktikum</h2>
-<h2>Membuat List</h2>
-<h>Ordered List</h>
-    <header>
-        <h1>Membuat List</h1>
-    </header>
+
+     <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML Lanjutan</title>
+    </head>
+    <body>
+        <header>
+            <h1>Membuat List</h1>
+
+<h2>Membuat Ordered List</h2>
+
     <section id="order-list"> 
         <h2>Ordered List</h2> 
         <ol> 
