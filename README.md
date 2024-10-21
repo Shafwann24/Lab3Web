@@ -97,7 +97,8 @@
 ![image](https://github.com/user-attachments/assets/b14ebac2-7b5d-47ec-ac1a-883d039a4ecf)
 <br>
 
-        <h2>Unodered List</h2>
+ <h2>Unodered List</h2>
+ 
           <section id="unorder-list">
             <h2>Unordered List</h2>
             <ul style="list-style-type: square;">
@@ -111,4 +112,20 @@
 ![image](https://github.com/user-attachments/assets/498a8399-0670-44d4-bb00-5714d74ec151)
 <br>
 
+<h2>Membuat Description List<h2>
+    
+        <section id="unorder-list"> 
+        <h2>Description List</h2> 
+        <dl> 
+            <dt>Fakultas Teknik</dt> 
+            <dd>Teknik Industri</dd> 
+            <dd>Teknik Informatika</dd> 
+            <dd>Teknik Lingkungan</dd> 
+            <dt>Fakultas Ekonomi dan Bisnis</dt> 
+            <dd>Akuntansi</dd> 
+            <dd>Manajemen</dd> 
+            <dd>Bisnis Digital</dd> 
+        </dl> 
+    </section> 
+<br>
 
