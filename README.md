@@ -87,5 +87,18 @@
     </section>
 
 ![image](https://github.com/user-attachments/assets/b14ebac2-7b5d-47ec-ac1a-883d039a4ecf)
+<br>
+<h2>Unodered List</h2>
+    </section>
+    <section id="unorder-list"> 
+        <h2>Unordered List</h2> 
+        <ul type="square"> 
+            <li>Jaringan Komputer</li> 
+            <li>Struktur Data</li> 
+            <li>Algoritma &amp; Pemrograman</li> 
+        </ul> 
+    </section>
 
+![image](https://github.com/user-attachments/assets/498a8399-0670-44d4-bb00-5714d74ec151)
+<br>
 
