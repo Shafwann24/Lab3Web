@@ -1,6 +1,6 @@
 <h1>Pertanyaan dan Tugas</h1>
 <h>1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection. </h>
-<br>
+<hr>
 <!DOCTYPE html>
 <html lang="en">
 <head>
