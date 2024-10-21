@@ -74,4 +74,18 @@
 <h2>1. Laporan Praktikum</h2>
 <h2>Membuat List</h2>
 <h>Ordered List</h>
+    <header>
+        <h1>Membuat List</h1>
+    </header>
+    <section id="order-list"> 
+        <h2>Ordered List</h2> 
+        <ol> 
+            <li>Pemrograman Web</li> 
+            <li>Sistem Informasi</li> 
+            <li>Basis Data 2</li> 
+        </ol> 
+    </section>
+
+![image](https://github.com/user-attachments/assets/b14ebac2-7b5d-47ec-ac1a-883d039a4ecf)
+
 
